@@ -14,7 +14,7 @@
 
 ## Feito por:
 
-### Gabriel Satnana
+### Gabriel Santana
 
 ### Linkedin: 
 
