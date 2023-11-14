@@ -14,3 +14,7 @@
 ### Gabriel Santana
 
 ### Linkedin: https://www.linkedin.com/in/gabreel/
+
+## Verifique o projeto online:
+
+### Vercel: https://curriculo-orpin-chi.vercel.app;
